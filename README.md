@@ -1,4 +1,2 @@
 # Python Practice
-
-Learning Python by building small projects and understanding core concepts deeply.
-# update
+Trying to explain what I have learnt so far, to build better understanding WIP will try to complete it soon!!
